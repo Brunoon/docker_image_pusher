@@ -1,3 +1,7 @@
+# jetbrains
+--platform=linux/arm64 jetbrains/devcontainers-helper:20231115
+--platform=linux/amd64 jetbrains/devcontainers-helper:20231115
+
 # ubuntu
 --platform=linux/arm64 ubuntu:20.04
 --platform=linux/amd64 ubuntu:20.04
