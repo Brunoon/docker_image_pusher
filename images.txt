@@ -1,3 +1,7 @@
+# rocketmq
+--platform=linux/arm64 apache/rocketmq:5.3.0
+--platform=linux/amd64 apache/rocketmq:5.3.0
+
 # jetbrains
 --platform=linux/arm64 jetbrains/devcontainers-helper:20231115
 --platform=linux/amd64 jetbrains/devcontainers-helper:20231115
