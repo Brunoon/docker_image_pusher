@@ -20,4 +20,4 @@
 #--platform=linux/amd64 bitnami/rabbitmq:3.8.32
 
 # exporter
---platform=linux/amd64 danielqsj/kafka-exporter:1.7.0
+--platform=linux/amd64 danielqsj/kafka-exporter:latest
