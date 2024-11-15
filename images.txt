@@ -17,4 +17,7 @@
 #--platform=linux/amd64 golang:1.21-alpine
 
 # rabbitmq
---platform=linux/amd64 bitnami/rabbitmq:3.8.32
+#--platform=linux/amd64 bitnami/rabbitmq:3.8.32
+
+# exporter
+--platform=linux/amd64 danielqsj/kafka-exporter:1.7.0
