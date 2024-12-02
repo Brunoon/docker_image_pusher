@@ -21,3 +21,6 @@
 
 # exporter
 --platform=linux/amd64 danielqsj/kafka-exporter:latest
+
+# kafka
+--platform=linux/amd64 apache/kafka:3.8.0
