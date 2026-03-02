@@ -18,10 +18,13 @@
 
 # rabbitmq
 #--platform=linux/amd64 bitnami/rabbitmq:3.8.32
---platform=linux/amd64 rabbitmq:3.8.32
+#--platform=linux/amd64 rabbitmq:3.8.32
 
 # exporter
---platform=linux/amd64 danielqsj/kafka-exporter:latest
+#--platform=linux/amd64 danielqsj/kafka-exporter:latest
 
 # kafka
---platform=linux/amd64 apache/kafka:3.8.0
+#--platform=linux/amd64 apache/kafka:3.8.0
+
+# zoonavigator
+--platform=linux/arm64 elkozmon/zoonavigator:latest
