@@ -27,4 +27,8 @@
 #--platform=linux/amd64 apache/kafka:3.8.0
 
 # zoonavigator
---platform=linux/arm64 elkozmon/zoonavigator:latest
+# --platform=linux/arm64 elkozmon/zoonavigator:latest
+
+# xxl-job-admin
+--platform=linux/amd64 xuxueli/xxl-job-admin:3.4.2
+--platform=linux/arm64 xuxueli/xxl-job-admin:3.4.2
