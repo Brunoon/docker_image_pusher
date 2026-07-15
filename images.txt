@@ -30,5 +30,8 @@
 # --platform=linux/arm64 elkozmon/zoonavigator:latest
 
 # xxl-job-admin
---platform=linux/amd64 xuxueli/xxl-job-admin:3.4.2
---platform=linux/arm64 xuxueli/xxl-job-admin:3.4.2
+# --platform=linux/amd64 xuxueli/xxl-job-admin:3.4.2
+
+# eclipse-temurin
+--platform=linux/amd64 eclipse-temurin:17-jre
+--platform=linux/arm64 eclipse-temurin:17-jre
